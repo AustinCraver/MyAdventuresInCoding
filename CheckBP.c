@@ -1,4 +1,9 @@
-//Conditional Statement Using if...else in C
+/*Conditional Statement Using if...else in C
+  This code was written by Austin Craver as part of
+  following along a video tutorial in a course through Udemy. 
+  I'm just now learning to code. You know what they say about
+  better late than never. 
+*/
 
 #include <stdio.h>
 
